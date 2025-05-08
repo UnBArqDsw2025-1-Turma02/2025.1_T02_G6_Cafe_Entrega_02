@@ -1,0 +1,77 @@
+# 2.2. Diagrama de Classes – Modelagem Estática
+
+## Introdução
+
+  O Diagrama de Classes é uma das ferramentas mais importantes da UML (Unified Modeling Language) na modelagem de sistemas orientados a objetos. Ele oferece uma visão estática da estrutura do sistema, representando **classes**, seus **atributos**, **operações** (métodos) e os **relacionamentos** entre essas classes.
+
+  Essencial durante as fases de análise e design, esse diagrama permite capturar as principais entidades do domínio do problema e como elas interagem logicamente. Também facilita a documentação técnica e o alinhamento entre os membros da equipe de desenvolvimento, promovendo uma compreensão comum da arquitetura do sistema.
+
+  Os tipos de relacionamentos mais utilizados no diagrama incluem:
+- **Associação:** conexão direta entre duas classes.
+- **Agregação:** relação "todo-parte" onde as partes podem existir independentemente.
+- **Composição:** forma forte de agregação com dependência de ciclo de vida.
+- **Generalização:** herança de comportamento e estrutura.
+- **Dependência:** uso temporário de uma classe por outra.
+
+## Objetivo
+
+  Este documento tem por objetivo descrever a estrutura estática de um sistema de fórum online dedicado a entusiastas de café e foi inspirado no fórum **Clube do Café**. A modelagem foi realizada com base nas principais funcionalidades observadas em fóruns tradicionais, adaptadas ao nicho de cafés especiais.
+
+  Através do Diagrama de Classes, buscou-se:
+- Identificar as entidades principais do sistema e seus atributos.
+- Definir métodos representativos para cada classe.
+- Representar com clareza os relacionamentos estruturais entre as entidades.
+- Servir como base para a implementação futura, testes e manutenção.
+- Auxiliar na comunicação entre analistas, desenvolvedores e stakeholders do projeto.
+
+  O diagrama também foi elaborado de forma a permitir futuras expansões, como funcionalidades premium, avaliações de produtos e integração com lojas virtuais, etc.
+
+## Metodologia
+
+Como etapa preliminar à modelagem em UML, foi utilizado um **[Diagrama Entidade-Relacionamento (DER)](docs/Modelagem/extras/DER)** para representar os dados principais e suas relações no sistema do Clube do Café. Essa abordagem ajudou a entender de forma relacional os componentes centrais do sistema antes da transição para a modelagem orientada a objetos com o Diagrama de Classes. A partir do DER, foi possível extrair as classes, seus atributos e relacionamentos, garantindo maior fidelidade à estrutura lógica do domínio.
+
+
+## Diagrama de Classes Criado
+
+| Descrição |                                                 
+|-------------------------|
+ Modela as entidades principais de um fórum online: Usuário (e suas generalizações), Postagem, Tópico (e suas generalizações), interação, Estabelecimento, Produto.   |
+
+### Diagrama de Classes v1
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVI-wy_ZU=/?moveToViewport=8636,2689,9203,4865&embedId=450468100419" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+Autor(es): Todos -> Indicar Comprobatorio
+<br>
+
+### Diagrama de Classes v2
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVI-wy_ZU=/?moveToViewport=6778,8349,13026,10430&embedId=63990605328" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+Autores: Filipe, Geovane e Marcos -> [Controle de Alterações](https://docs.google.com/document/d/1WFo5gpV-1ITkQbm1IdCX4Di81Zo16eXnvoJGotP5rVo/edit?usp=sharing)
+
+<br>
+
+> **Nota:** O modelo reflete interações típicas de usuários em um fórum: criação de tópicos, postagem de conteúdo, comentários e moderação.
+
+
+## Bibliografia
+
+[1] BOOCH, Grady; RUMBAUGH, James; JACOBSON, Ivar. *The Unified Modeling Language Reference Manual*. 2ª ed. Addison-Wesley, 2004.
+
+[2] UML Diagrams. *Class Diagram Tutorial*. Disponível em: https://www.uml-diagrams.org/class-diagrams-overview.html. Acesso em: 07 mai. 2025.
+
+[3] LARMAN, Craig. *Utilizando UML e Padrões: Uma Introdução à Análise e ao Projeto Orientados a Objetos e ao Processo Unificado*. 3ª ed. Bookman, 2007.
+
+[4] FOWLER, Martin. *UML Distilled: A Brief Guide to the Standard Object Modeling Language*. 3ª ed. Addison-Wesley, 2004.
+
+[5] OMG. *UML 2.5 Specification*. Disponível em: https://www.omg.org/spec/UML/2.5. Acesso em: 07 mai. 2025.
+
+## Histórico de Versão
+
+| Versão | Data       | Alteração                     | Responsável     | Revisor           | Data de revisão |
+|--------|------------|-------------------------------|------------------|-------------------|------------------|
+| 1.0    | 08/05/2025 | Criação do documento          | [Marcos Castilhos](https://github.com/Marcosatc147)  |    |      |
+
+## Controle de Revisão
+
+| Revisor(es)      | O que foi realizado                                  |
+|------------------|------------------------------------------------------|
+|    |  |
