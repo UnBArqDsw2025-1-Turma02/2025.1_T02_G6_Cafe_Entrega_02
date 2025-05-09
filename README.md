@@ -51,6 +51,7 @@ Após isso, o site estará acessível em `http://localhost:3000`, onde será pos
     <td align="center"><a href="https://github.com/Marcosatc147"><img style="border-radius: 50%;" src="https://github.com/Marcosatc147.png" width="100px;" alt="Imagem de Marcos Castilhos"/><br /><sub><b>Marcos Castilhos</b></sub></a></td>
     <td align="center"><a href="https://github.com/Nicollaxs "><img style="border-radius: 50%;" src="https://github.com/Nicollaxs.png" width="100px;" alt="Imagem de Nicollas Gabriel"/><br /><sub><b>Nicollas Gabriel</b></sub></a></td>
     <td align="center"><a href="https://github.com/SamuelRicosta"><img style="border-radius: 50%;" src="https://github.com/SamuelRicosta.png" width="100px;" alt="Imagem de Samuel Ribeiro"/><br /><sub><b>Samuel Ribeiro</b></sub></a></td>
+    <td align="center"><a href="https://github.com/PedroHhenriq"><img style="border-radius: 50%;" src="https://github.com/PedroHhenriq.png" width="100px;" alt="Imagem de Pedro Henrique"/><br /><sub><b>Pedro Henrique</b></sub></a></td>
   </tr>
 </table> 
 
