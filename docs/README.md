@@ -37,29 +37,18 @@ Abaixo, as figuras de partes do projeto geral.
     <img src="./Modelagem/figura1.png"  width="1000px">
 </div>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b>  [Toda a equipe](), 2025</p></font>
-
-<p style="text-align: center"><b>Figura 2 – Miro</b></p>
+<p style="text-align: center"><b>Figura 2 – Fluxo</b></p>
 
   <div style="text-align: center;">
-    <img src="./Base/Assets/printmiro.jpg"  width="1000px">
+    <img src="./assets/printdrawio.png"  width="1000px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Toda a equipe](), 2025</p></font>
 
-
-<p style="text-align: center"><b>Figura 3 – Fluxo</b></p>
-
-  <div style="text-align: center;">
-    <img src="./Base/Assets/printfluxo.jpg"  width="1000px">
-</div>
-
-<font size="3"><p style="text-align: center"><b>Autor:</b>  [Toda a equipe](), 2025</p></font>
-
-<p style="text-align: center"><b>Figura 4 – Prototipo</b></p>
+<p style="text-align: center"><b>Figura 3 – Prototipo</b></p>
 
   <div style="text-align: center;">
-    <img src="./Base/Assets/printprototipo.jpg"  width="1000px">
+    <img src="./assets/printfigma.png"  width="1000px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Toda a equipe](), 2025</p></font>
@@ -85,6 +74,13 @@ No desenvolvimento dos artefatos, também foi importante observar a valorizaçã
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :----: | :--: | :-------: | :-------: | :---------: |
-| `1.0` | 09/05/2025 | Versão inicial do artefato. | [Gustavo Alves](https://github.com/gustaallves) | |
+| Versão | Data       | Alteração              | Responsável     | Revisores          | Data de revisão |
+|--------|------------|------------------------|------------------|-------------------|------------------|
+| 1.0    | 08/05/2025 | Versão inicial do artefato  |[Gustavo Alves](https://github.com/gustaallves) |  [Filipe Carvalho](https://github.com/filipe-002)  |    09/05/2025    |
+| 1.0    | 09/05/2025 | Corrigindo imagens  | [Filipe Carvalho](https://github.com/filipe-002) | [Diego Carlito](https://github.com/DiegoCarlito) |    09/05/2025    |
+
+## Controle de Revisão
+
+| Revisor(es)      | O que foi realizado                                      |
+|------------------|----------------------------------------------------------|
+|  [Diego Carlito](https://github.com/DiegoCarlito) |    Ajuste caminho de imagem         |
