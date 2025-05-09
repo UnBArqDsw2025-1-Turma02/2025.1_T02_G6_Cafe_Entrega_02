@@ -35,7 +35,7 @@ Abaixo, as figuras de partes do projeto geral.
   <p style="text-align: center"><b>Figura 1 – Diagrama de Classe</b></p>
 
 <div style="text-align: center;">
-    <img src="./Modelagem/figura1.png"  width="1000px">
+    <img src="./Modelagem/foco1/DClassesv1.png"  width="1000px">
 </div>
 
 <p style="text-align: center"><b>Figura 2 – Fluxo</b></p>
