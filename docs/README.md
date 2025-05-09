@@ -18,7 +18,7 @@
 | 22/1008300  |  [Marcos Antonio Teles de Castilhos](https://github.com/Marcosatc147) |
 | 21/1062802  |  [Nicollas Gabriel Oliveira Sousa](https://github.com/Nicollaxs) |
 | 21/1031486  |  [Samuel Ribeiro Da Costa](https://github.com/Samuelricosta) |
-| 20/0026151  |  [Pedro Henrique F. Nunes ](https://github.com/(PedroHhenriq) |
+| 20/0026151  |  [Pedro Henrique F. Nunes](https://github.com/PedroHhenriq) |
 
 ## Sobre 
 
