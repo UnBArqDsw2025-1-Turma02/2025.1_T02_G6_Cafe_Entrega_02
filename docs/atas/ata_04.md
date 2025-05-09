@@ -26,7 +26,7 @@ Alguns integrantes participaram e outros não estavam disponíveis para o encont
 <label><input type="checkbox" checked disabled>[Genilson Silva](https://github.com/GenilsonJrs)</label><br>
 <label><input type="checkbox" checked disabled>[Geovane Freitas](https://github.com/GeovaneSFT)</label><br>
 <label><input type="checkbox" checked disabled>[Guilherme Coelho](https://github.com/Guilermanoo)</label><br>
-<label><input type="checkbox" unchecked disabled>[Gustavo Alves](https://github.com/gustaallves)</label><br>
+<label><input type="checkbox" checked disabled>[Gustavo Alves](https://github.com/gustaallves)</label><br>
 <label><input type="checkbox" unchecked disabled>[João Vitor](https://github.com/Joa0v)</label><br>
 <label><input type="checkbox" checked disabled>[Marcos Castilhos](https://github.com/Marcosatc147)</label><br>
 <label><input type="checkbox" checked disabled>[Nicollas Gabriel](https://github.com/Nicollaxs)</label><br>
@@ -144,7 +144,7 @@ e os responsáveis designados para os próximos passos.
 
 | Versão | Data | Descrição | Autor | Revisor|Detalhes da Revisão|
 |:-:|:-:|:-:|:-:|:-:|:--:|
-|`1.0`| 08/05/2025 | Criação do documento| [Geovane Freitas][GeovaneGH] | [Geovane Freitas][GeovaneGH] | |
+|`1.0`| 08/05/2025 | Criação do documento| [Geovane Freitas][GeovaneGH] | [Geovane Freitas][GeovaneGH] | Ajustados participantes presentes |
 
 [DiegoGH]: https://github.com/DiegoCarlito
 [FilipeGH]: https://github.com/Filipe-002
