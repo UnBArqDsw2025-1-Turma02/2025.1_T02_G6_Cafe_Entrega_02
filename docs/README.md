@@ -46,14 +46,6 @@ Abaixo, as figuras de partes do projeto geral.
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Toda a equipe](), 2025</p></font>
 
-<p style="text-align: center"><b>Figura 3 – Prototipo</b></p>
-
-  <div style="text-align: center;">
-    <img src="./assets/printfigma.png"  width="1000px">
-</div>
-
-<font size="3"><p style="text-align: center"><b>Autor:</b>  [Toda a equipe](), 2025</p></font>
-
 ## Há algo a ser executado?
 
 ( ) SIM
