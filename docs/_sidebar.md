@@ -22,7 +22,8 @@
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
 
 - **Atas**
-  - [Ata - 01](atas/ata_01.md)
-  - [Ata - 02](atas/ata_02.md)
-  - [Ata - 03](atas/ata_03.md)
-  - [Ata - 04](atas/ata_04.md)
+  - [Visão Geral](atas/atas.md)
+    - [Ata - 01](atas/ata_01.md)
+    - [Ata - 02](atas/ata_02.md)
+    - [Ata - 03](atas/ata_03.md)
+    - [Ata - 04](atas/ata_04.md)
