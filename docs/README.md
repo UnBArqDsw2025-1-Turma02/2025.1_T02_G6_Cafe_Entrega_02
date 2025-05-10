@@ -49,7 +49,7 @@ Abaixo, as figuras de partes do projeto geral.
 <p style="text-align: center"><b>Figura 3 – Versão 2 do Diagrama de Casos de Uso</b></p>
 
   <div style="text-align: center;">
-    <img src="../Modelagem/foco2/DiagramaCasoUsov2.png"  width="1000px">
+    <img src="../Modelagem/foco3/DiagramaCasoUsov2.png"  width="1000px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Toda a equipe](), 2025</p></font>
