@@ -39,7 +39,7 @@ As imagens abaixo representam as versões dos DERs criadas por três integrantes
 <p style="text-align: center"><b>Figura 2 – DER Filipe</b></p>
 
   <div style="text-align: center;">
-    <img src="./Modelagem/extras/DER/DER-Filipe.png"  width="1000px">
+    <img src="./Modelagem/extras/DER/DER-Filipe.jpeg"  width="1000px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Filipe](https://github.com/Filipe-002), 2025</p></font>
