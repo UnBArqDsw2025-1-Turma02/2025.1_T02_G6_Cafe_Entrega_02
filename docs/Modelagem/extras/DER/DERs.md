@@ -23,38 +23,38 @@ Acesse os DERs no MIRO a partir desse [link](https://miro.com/welcomeonboard/Q1d
 As imagens abaixo representam as versões dos DERs criadas por três integrantes da equipe e estão disponíveis também no ambiente colaborativo da equipe:
 
 
-
 ## DER - Diego
 
-<center>
-<font size="3"><p style="text-align: center"><b>Figura 1 -</b> DER Diego </p></font>
+<p style="text-align: center"><b>Figura 1 – DER Diego</b></p>
 
-![DER Diego](../Modelagem/extras/DER/DER-Diego.png)
+  <div style="text-align: center;">
+    <img src="./Modelagem/extras/DER/DER-Diego.png"  width="1000px">
+</div>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b>  [Diego](https://github.com/DiegoCarlito) 2025</p></font>
-</center>
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Diego](https://github.com/DiegoCarlito), 2025</p></font>
 
 
 ## DER - Filipe
 
-<center>
-<font size="3"><p style="text-align: center"><b>Figura 2 -</b> DER Filipe </p></font>
+<p style="text-align: center"><b>Figura 2 – DER Filipe</b></p>
 
-![DER Filipe](../Modelagem/extras/DER/DER-Filipe.jpeg)
+  <div style="text-align: center;">
+    <img src="./Modelagem/extras/DER/DER-Filipe.png"  width="1000px">
+</div>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b>  [Filipe](https://github.com/Filipe-002) 2025</p></font>
-</center>
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Filipe](https://github.com/Filipe-002), 2025</p></font>
 
 
 ## DER - Marcos
 
-<center>
-<font size="3"><p style="text-align: center"><b>Figura 3 -</b> DER Marcos </p></font>
 
-![DER Marcos](../Modelagem/extras/DER/DER-Marcos.png)
+<p style="text-align: center"><b>Figura 3 –  DER Marcos</b></p>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b>  [Marcos](https://github.com/Marcosatc147) 2025</p></font>
-</center>
+  <div style="text-align: center;">
+    <img src="./Modelagem/extras/DER/DER-Marcos.png"  width="1000px">
+</div>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Marcos](https://github.com/Marcosatc147), 2025</p></font>
 
 ## Histórico de Versões
 
